@@ -37,3 +37,7 @@ https://assetstore.unity.com/packages/audio/sound-fx/horror-elements-112021
 https://assetstore.unity.com/packages/3d/props/horror-assets-69717
 https://assetstore.unity.com/packages/3d/props/furniture/horror-school-props-112589
 https://assetstore.unity.com/packages/3d/environments/swamp-house-1-153759
+
+## Game Trailer
+
+https://youtu.be/4NBgyebw07A

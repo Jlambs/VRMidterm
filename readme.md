@@ -1,9 +1,5 @@
 ﻿# Grabbing Hidden Objects and Stealing Them Simulator (G.H.O.S.T.S.)
 
-Julian Lambert
-Fall 2019
-CSCI 4519 - Intro to VR
-
 
 ## Game Overview
 
